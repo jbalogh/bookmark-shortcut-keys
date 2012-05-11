@@ -1,0 +1,17 @@
+{
+    "id": "shortcut-keys@jbalogh.me",
+    "name": "bookmark-shortcut-keys",
+    "fullName": "Bookmark Shortcut Keys",
+    "description": "Access Bookmark Toolbar items with a keyboard shortcut.",
+    "author": "jbalogh@mozilla.com",
+    "license": "MIT",
+    "version": "0.5",
+    "preferences": [
+        {
+            "type": "string",
+            "name": "modifier",
+            "value": "control",
+            "title": "Modifier key: alt, control, meta, shift, or a combo like control-shift."
+        }
+    ]
+}
