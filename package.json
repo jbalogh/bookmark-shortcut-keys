@@ -5,7 +5,7 @@
     "description": "Access Bookmark Toolbar items with a keyboard shortcut.",
     "author": "jbalogh@mozilla.com",
     "license": "MIT",
-    "version": "0.5",
+    "version": "0.75",
     "preferences": [
         {
             "type": "string",
